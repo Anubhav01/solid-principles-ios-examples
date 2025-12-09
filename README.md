@@ -68,7 +68,7 @@ Each folder in this repository corresponds to a part of the blog series.
 
 | Part | Principle | Description | Code Status |
 | :--- | :--- | :--- | :--- |
-| **01** | [**Introduction**](LINK_TO_YOUR_BLOG_POST_HERE) | Why SOLID matters & The "Jenga" Analogy | ✅ Ready |
+| **01** | [**Introduction**](https://medium.com/@anubhavgiri01/solid-principles-in-ios-the-blueprint-for-scalable-apps-c081ebf40814) | Why SOLID matters & The "Jenga" Analogy | ✅ Ready |
 | **02** | **Single Responsibility (SRP)** | Killing the Massive View Controller | 🚧 Coming Soon |
 | **03** | **Open/Closed (OCP)** | Feature Flags & Plugin Architecture | ⏳ Pending |
 | **04** | **Liskov Substitution (LSP)** | Protocol-Oriented Swift done right | ⏳ Pending |
