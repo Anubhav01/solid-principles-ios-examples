@@ -38,7 +38,7 @@ struct ProfileValidator {
     }
 }
 
-enum ValidationError: LocalizedError {
+enum ValidationError: LocalizedError, Equatable {
     case nameEmpty
     case nameTooShort(min: Int)
     case nameTooLong(max: Int)
